@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "482854066781",
+    "project_id": "papb-d8bd1",
+    "storage_bucket": "papb-d8bd1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482854066781:android:7a11ea33e718d559538bb4",
+        "android_client_info": {
+          "package_name": "com.eclipse.findz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482854066781-n6mncfgiccn4ksloddj97qjjr9l7fnn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eclipse.findz",
+            "certificate_hash": "2caec4e5d05635a18733f0a90842da83016fca43"
+          }
+        },
+        {
+          "client_id": "482854066781-djrjkhn6j6k93jjfuclfbm3eo6fk675k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4AoiJOmjtEsc3FhN-2sZog5GyrkUikRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482854066781-djrjkhn6j6k93jjfuclfbm3eo6fk675k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
